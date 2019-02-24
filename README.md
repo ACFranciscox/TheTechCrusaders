@@ -1,6 +1,6 @@
 # TheTechCrusaders
 
-Project Name: ERA
+Project Name: ERA (Emergency Requesting Application)
 
 Members:
 
