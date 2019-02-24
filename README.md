@@ -1,6 +1,5 @@
 # TheTechCrusaders
 
-Team Name: The Tech Crusaders
 Project Name: ERA
 
 Members:
