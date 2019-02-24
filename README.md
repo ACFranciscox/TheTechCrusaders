@@ -7,7 +7,7 @@ Members:
 	Francisco, Alvin C.
 	Galang Jr., Rolando A.
 	Conda, Neil Clairence B.
-	Swayze, Patrick Acabo B.
+	Acabo, Patrick Swayze B.
 
 
 About ERA: 
